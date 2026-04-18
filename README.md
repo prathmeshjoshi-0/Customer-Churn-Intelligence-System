@@ -104,6 +104,16 @@ README.md
 
 
 ---
+## Project Summary Table at the top of README:
+| Metric | Value |
+|------|------|
+Dataset Size | 7,043 customers |
+Features | 21 |
+Model Used | Logistic Regression |
+Accuracy | 82% |
+Dashboard Tool | Power BI |
+
+---
 
 ## 👨‍💻 Author
 
