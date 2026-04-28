@@ -1,12 +1,4 @@
-# LinkedIn Post — Telecom Churn Project
-
-> Copy this post exactly when you're ready to publish.
-> Replace [GITHUB_LINK] with your actual repo URL.
-> Attach your Power BI dashboard screenshot as the image.
-
----
-
-## POST COPY:
+# LinkedIn Post — Telecom Churn Project 
 
 A telecom company is losing 20% of its customers every quarter. I built a system to predict who's about to leave — and exactly when to intervene.
 
@@ -28,16 +20,6 @@ What I built:
 2. Auto-pay incentive campaign → highest ROI intervention
 3. Weekly risk-score dashboard for Customer Success team
 
-Full project with notebooks, SQL queries, and executive memo:
-👉 [GITHUB_LINK]
+
 
 #DataAnalytics #Python #SQL #PowerBI #ChurnAnalysis #DataScience #PortfolioProject
-
----
-
-## TIMING TIP:
-Post on Tuesday or Wednesday between 8–10am IST for maximum LinkedIn reach.
-
-## ENGAGEMENT TIP:
-End your first comment with: "What's your company's approach to churn prevention? Drop it below 👇"
-This drives comments which boost the post's reach.
